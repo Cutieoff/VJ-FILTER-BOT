@@ -567,7 +567,7 @@ Also your tutorial will be Added Your Group..."""
 साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
 
     MALAYALAM_INFO = """
-ഹേയ് <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ഹേയ് <a href='tg://KANNADA_KID'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  ഇപ്പോൾ നിങ്ങൾക്ക് ടെലിഗ്രാമിലും പണം സമ്പാദിക്കാം.
@@ -594,7 +594,7 @@ Also your tutorial will be Added Your Group..."""
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTU_INFO = """
- <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
+ <a href='tg://KANNADA_KID'>ᴍʏ ғʀɪᴇɴᴅ</a> 
 
 
  اب آپ ٹیلی گرام پر بھی پیسے کما سکتے ہیں۔
@@ -703,9 +703,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/@KANNADA_KID'>KK</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
+-Dev 2 <a href='https://t.me/@KANNADA_KID'>KK</a>
 
 -Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
 
