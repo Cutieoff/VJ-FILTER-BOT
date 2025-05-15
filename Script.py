@@ -703,11 +703,11 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/@Mall00003'>KK</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/@VJ_Botz'>KK</a>
 
 -Dev 2 <a href='https://t.me/@Mall00003'>KK</a>
 
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
+-Dev 3 <a href='https://t.me/VJ Botz</a>
 
 - Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
 """
