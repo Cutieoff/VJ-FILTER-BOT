@@ -107,7 +107,7 @@ VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'b76f67cf7284707d3211dd48fed23111fe56da7a')
 
 # Others
